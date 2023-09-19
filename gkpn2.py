@@ -73,7 +73,7 @@ def main():
 
         results["total_rounds"] += 1
 
-        # Dodaj szczegóły rundy do listy "rounds"
+        
         round_details = {
             "round_number": results["total_rounds"],
             "player_choice": user_choice,
